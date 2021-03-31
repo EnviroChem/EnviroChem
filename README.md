@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there and welcome to EnviroChem!👋
+I’m currently learning Backend Python, Git and Github🌱 
 <!--
 **EnviroChem/EnviroChem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
