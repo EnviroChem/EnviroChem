@@ -1,5 +1,8 @@
 ### Hi there and welcome to EnviroChem!👋
 I’m currently learning Backend Python, Git and Github🌱 
+Besides an interest in Python and Computer Coding, 
+I enjoy Chinese and Japanese languages (中文(简体/繁體)，日本語)
+Aquatic Chemistry, Geochemistry and of course Environmental Chemistry!
 <!--
 **EnviroChem/EnviroChem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
